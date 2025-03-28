@@ -46,8 +46,18 @@ h1{
 #main{
     border: 1px solid black;
 }
-img{
+#i{
     position: absolute;
     top:120px;
     left: 1000px;
+}
+#i1{
+    position: absolute;
+    top:100px ;
+    left: 930px;
+}
+#i2{
+    position: absolute;
+    top:280px;
+    left: 930px;
 }
